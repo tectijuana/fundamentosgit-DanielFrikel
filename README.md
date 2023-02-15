@@ -7,9 +7,9 @@
 > 8vo Semestre
 
 ## :octocat: Git and GitHub
-``Javascript
+```javascript
   console.log('Hola Git');
-``
+```
 
 Conocimientos en
 - [X] Apps Moviles
