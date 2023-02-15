@@ -15,3 +15,5 @@ Conocimientos en
 - [X] Apps Moviles
 - [X] Apps Web
 - [ ] Apps Desktop
+
+🐫 🎉 :octocat: 🐙
