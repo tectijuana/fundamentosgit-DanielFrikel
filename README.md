@@ -1,5 +1,5 @@
 # :wave: Aguilar Daniel
-
+![](imagenes/dibujo.png)
 
 ## 🤓 Ingenieria de Conocimiento
 
